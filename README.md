@@ -18,7 +18,7 @@ First, collected data were imported from a *.csv file to pandas library to be ab
 
 
 ## **Results**
-Results are printed here as a *.pdf file: ![Challenge%204_printed%20preview%20of%20the%20complete%20code_MSF](https://github.com/MSF2141/school-district-analysis/blob/4a7c234d6f229a65c2edd4c65c6b98f1ac3ab811/Challenge%204_printed%20preview%20of%20the%20complete%20code_MSF.pdf)
+Results are printed here as a *.pdf file: [Challenge%204_printed%20preview%20of%20the%20complete%20code_MSF](https://github.com/MSF2141/school-district-analysis/blob/4a7c234d6f229a65c2edd4c65c6b98f1ac3ab811/Challenge%204_printed%20preview%20of%20the%20complete%20code_MSF.pdf)
 
 
 ## **Summary**
