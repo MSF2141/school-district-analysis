@@ -1,4 +1,4 @@
-# School District Analysis using Panda Library and Jupiter notebook
+# School District Analysis using Pandas Library and Jupiter notebook
 
 ## **Overview of Project**
 The objective of this analysis was to assist the chief data scientist, Maria, for a city school disctrict. Maria provided standardized test data for analysis, reporting, and presentation to provide insights about school performance trends and patterns. These insights could be used to inform discussions and strategic decisions at the school and district level. Specifically, she was interested in analyzing data on school funding and students' standardized test scores. Data source for this analysis contained every student's math and reading scores, as well as various information on the schools they attend. The major task was to aggregate the data and showcase trends in school performance.
