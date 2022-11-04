@@ -4,7 +4,7 @@
 The objective of this analysis was to assist the chief data scientist, Maria, for a city school disctrict. Maria provided standardized test data for analysis, reporting, and presentation to provide insights about school performance trends and patterns. These insights could be used to inform discussions and strategic decisions at the school and district level. Specifically, she was interested in analyzing data on school funding and students' standardized test scores. Data source for this analysis contained every student's math and reading scores, as well as various information on the schools they attend. The major task was to aggregate the data and showcase trends in school performance.
 
 ### Purpose
-Specifically, the purpose of this analysis is to use Pandas library along with Jupiter Notebook to automate and simplify the data analysis.
+Specifically, the major task was to aggregate the data and showcase trends in school performance using the Pandas library along with Jupiter Notebook to automate and simplify the data analysis.
 
 
 ## **Analysis**
@@ -14,7 +14,7 @@ Data source can be found here as a *.csv file: [new_full_student_data](https://g
 
 Complete code can be found here: [Student_Data_Challenge_Starter_Code_MSF](https://github.com/MSF2141/school-district-analysis/blob/0654552ec9349385122775e6bd36f06aa37009be/Student_Data_Challenge_Starter_Code_MSF.ipynb).
 
-First, collected data were imported from a *.csv file to pandas library to be able to work with them. Second, data were prepared for analysis by inspecting and dealing with missing, duplicate, and other messy data. Third, data were analyzed using a three-way approach,i.e., (i) summerization, (ii) targeted analysis, and (iii) aggregated analysis.
+First, collected data were imported from a *.csv file to pandas library to be able to work with them. Second, data were prepared for analysis by inspecting and dealing with missing, duplicate, and other messy data. Third, data were analyzed using a three-way approach, i.e., (i) summerization, (ii) targeted analysis, and (iii) aggregated analysis.
 
 
 ## **Results**
