@@ -12,7 +12,7 @@ Softwares: Pandas Library and Jupiter Notebook 6.4.12
 
 Data source can be found here as a *.csv file: [election_results](https://github.com/MSF2141/election-analysis/blob/f3555399e3f34aa2e7c59b239359e56b726efc69/resources/election_results.csv)  and as a *.xlsx file: [election_results](https://github.com/MSF2141/election-analysis/blob/19c04d0dfbc2644c263757acf624e8c4d2005abd/resources/election_results.xlsx).
 
-Complete code can be found here: [PyPoll_Challenge](https://github.com/MSF2141/election-analysis/blob/0c4dd0e0e08adde640c2937e66c999f796bbf494/PyPoll_Challenge.py).
+Complete code can be found here: [Student_Data_Challenge_Starter_Code_MSF](https://github.com/MSF2141/school-district-analysis/blob/0654552ec9349385122775e6bd36f06aa37009be/Student_Data_Challenge_Starter_Code_MSF.ipynb).
 
 First, collected data were imported from a *.csv file to pandas library to be able to work with them. Second, data were prepared for analysis by inspecting and dealing with missing, duplicate, and other messy data. Third, data were analyzed using a three-way approach,i.e., (i) summerization, (ii) targeted analysis, and (iii) aggregated analysis.
 
